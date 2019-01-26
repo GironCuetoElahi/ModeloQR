@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lector QR</string>
+
+    <string name="title_activity_scan_qr_code">Escanear</string>
+    <string name="qc_code_close">Cerrar</string>
+    <string name="qr_code_select_picture">Foto</string>
+    <string name="qr_code_open_flash_light">Encender Flash</string>
+    <string name="qr_code_close_flash_light">Apagar Flash</string>
+    <string name="qr_code_auto_scan_notification">Posiciona el QR</string>
+    <string name="qr_code_notification">Notificacion</string>
+    <string name="qr_code_camera_not_open">No se pudo abrir tu camara</string>
+    <string name="qr_code_positive_button_know">OK</string>
+    <string name="qr_code_positive_button_confirm">Confirmar</string>
+    <string name="qr_code_could_not_read_qr_code_from_picture">Could not read your image.Try another image~</string>
+    <string name="qr_code_could_not_read_qr_code_from_scanner">Sorry, could not open scan content</string>
+    <string name="qr_code_camera_not_found">No se pudo detectar tu camara</string>
+</resources>
